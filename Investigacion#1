@@ -1,0 +1,41 @@
+Que es Git
+
+
+Es un sistema de control de versiones para un proyecto. El control de versiones es la práctica de rastrear y gestionar los cambios en el código de software. 
+Estos son herramientas de software que ayudan a los equipos de software a gestionar los cambios en el código fuente a lo largo del tiempo. 
+
+
+Que es un GitHub
+
+Es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador. 
+La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones y herramientas, 
+y que como usuario no sólo puedas descargarte la aplicación, 
+sino también entrar a su perfil para leer sobre ella o colaborar con su desarrollo.
+
+
+Markdown y comandos
+
+Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple.
+
+Entre los comandos encontramos los siguientes: 
+
+Negrita: Se hace colocando el texto en *cursiva* (dentro de asteriscos)
+
+Listas con viñetas: Colocar un (*) y luego un ESPACIO. También se puede comenzar con un guión (-) seguido de un espacio para crear una lista con viñetas. 
+
+Listas numeradas: Debe escribir un salto de línea antes y después de la lista.
+
+Listas anidadas o una sublista: Para crear un segundo nivel, agregue dos espacios antes del (*)
+
+Encabezados:	Para crear un encabezado de nivel uno hay que agregar (#) al principio. Para crear un encabezado de nivel dos uno hay que agregar (##) al principio. 
+Para crear un encabezado de nivel tres uno hay que agregar (###) al principio. 
+
+
+Código en línea: Hay que agregar un ("") al texto. Ejemplo "Cita" 
+
+Bloques de código: Hay que agregar un (```) al texto. Ejemplo ```Cita```
+
+Imágenes: Colocar (!) mas el link de la imagen 
+
+Carácter de subrayado: Hay que agregar un (\_ \_) al texto. Ejemplo: \_subrayado\_ 
+
